@@ -1088,6 +1088,12 @@ i.fas.fa-play-circle {
 }
 }
 @media(max-width:414px){
+.texto {
+    margin-top: 90px;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
 ul.navbar-nav.ml-auto li {
     width: 60%;
 }
@@ -1183,7 +1189,6 @@ i.fas.fa-play-circle {
     font-size: 23px;  
 }
 
-
 }
 @media(max-width:375px){
 .navbar-light .navbar-nav .nav-link {
@@ -1219,10 +1224,20 @@ p {
     margin: 10px 0px 5px;
 }
 .text-h3.text-center {
-    margin-bottom:10px;
+    margin-bottom:20px;
+}
+.texto {
+    margin-top: 100px;
+    font-size: 20px;
+    margin-bottom: 20px;
 }
 }
 @media(max-width:320px){
+.texto {
+    margin-top: 100px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
 ul.navbar-nav.ml-auto li {
     width: 27%;
 }
