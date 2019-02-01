@@ -1089,7 +1089,7 @@ i.fas.fa-play-circle {
 }
 @media(max-width:414px){
 .texto {
-    margin-top: 90px;
+    margin-top: 110px;
     font-size: 15px;
     margin-bottom: 20px;
 }
@@ -1227,14 +1227,14 @@ p {
     margin-bottom:20px;
 }
 .texto {
-    margin-top: 100px;
+    margin-top: 120px;
     font-size: 20px;
     margin-bottom: 20px;
 }
 }
 @media(max-width:320px){
 .texto {
-    margin-top: 100px;
+    margin-top: 120px;
     font-size: 20px;
     margin-bottom: 20px;
 }
