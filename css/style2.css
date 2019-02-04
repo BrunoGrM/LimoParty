@@ -1,3 +1,6 @@
+.body {
+    background-color: #06070b;
+}
 body {
     padding: 0;
     margin: 0;
@@ -780,6 +783,10 @@ a.w3_agile_google:hover {
 
 }
 @media(max-width:1024px){
+#logo {
+    width: 200px;
+    height: 70px;
+} 
 .banner-png {
     min-height: 600px;
 }
@@ -794,6 +801,10 @@ a.w3_agile_google:hover {
 }
 }
 @media(max-width:991px){
+#logo {
+    width: 170px;
+    height: 70px;
+} 
 ul.navbar-nav.ml-auto li {
     text-align: center;
     width: 40%;
@@ -858,6 +869,10 @@ button.navbar-toggler {
 
 }
 @media(max-width:800px){
+#logo {
+    width: 170px;
+    height: 70px;
+}
 .banner-png {
     min-height: 200px;
 }
@@ -880,6 +895,10 @@ button.navbar-toggler {
 }
 }
 @media(max-width:768px){
+#logo {
+    width: 170px;
+    height: 70px;
+} 
 .text-h3.text-center h3 {
     font-size: 37px;
 }
@@ -911,6 +930,10 @@ button.navbar-toggler {
 }
 }
 @media(max-width:736px){
+#logo {
+    width: 170px;
+    height: 70px;
+} 
 .banner-text {
     padding: 40vw 0 0 32vw;
 }
@@ -985,6 +1008,10 @@ h5.w3_clr {
 .welcome-grid h4 {
     font-size: 23px;
 }
+#logo {
+    width: 160px;
+    height: 70px;
+}
 
 .subscribe-main input[type="submit"] {
     padding: 12px 6px 10px;
@@ -995,6 +1022,10 @@ h5.w3_clr {
     width: 100%;
     height: 550px;
     position: relative;
+}
+#logo {
+    width: 160px;
+    height: 70px;
 }
 .banner {
     min-height: 400px;
@@ -1036,6 +1067,10 @@ ul.navbar-nav.ml-auto li {
     height: 500px;
     position: relative;
 }
+#logo {
+    width: 160px;
+    height: 60px;
+}
 .banner-text p {
     padding-top: 10px;
 }
@@ -1059,6 +1094,11 @@ a.navbar-brand {
 ul.navbar-nav.ml-auto li {
     width: 60%;
 }
+#logo {
+    width: 160px;
+    height: 60px;
+
+} 
 .slider-wrapper {
     width: 100%;
     height: 500px;
@@ -1089,7 +1129,7 @@ i.fas.fa-play-circle {
 }
 @media(max-width:414px){
 .texto {
-    margin-top: 110px;
+  
     font-size: 15px;
     margin-bottom: 20px;
 }
@@ -1227,14 +1267,14 @@ p {
     margin-bottom:20px;
 }
 .texto {
-    margin-top: 120px;
+    
     font-size: 20px;
     margin-bottom: 20px;
 }
 }
 @media(max-width:320px){
 .texto {
-    margin-top: 120px;
+    
     font-size: 20px;
     margin-bottom: 20px;
 }
