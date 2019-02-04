@@ -101,7 +101,7 @@ a:hover {
 
 .text-h3.text-center h3 {
     font-size: 42px;
-    color:#EE0979;
+    color:#403d3d;
     letter-spacing: 5px;
 	
 }
@@ -302,13 +302,6 @@ i.fas.fa-play-circle {
 /*-- //banner --*/
 
 /*-- about --*/
-#question {
-    background-color: #06070B; 
-}
-
-#about {
-    background-color: #06070B; 
-}
 .main-about {
     margin-top: 50px;
 }
@@ -366,7 +359,7 @@ i.fas.fa-play-circle {
 	color:#ee0979;
 }
 .test-wel p {
-    color: #959595;
+    color: #000;
     margin-bottom: 25px;
 }
 
