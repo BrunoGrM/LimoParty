@@ -1,1 +1,1 @@
-http://brunogrm.github.io/limoparty
+http://brunogrm.github.io/LimoParty
